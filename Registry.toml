@@ -1,0 +1,7 @@
+name = "Ju"
+uuid = "1b9fc110-0e39-11e9-34f8-37e6f7f3adc3"
+repo = "https://github.com/Ju-jl/Registry.git"
+
+[packages]
+449ae9ca-b987-11e8-3919-0764a06dfe61 = { name = "Ju", path = "J/Ju" }
+02c1da58-b9a1-11e8-0212-f9611b8fe936 = { name = "RLIntro", path = "R/RLIntro"}
